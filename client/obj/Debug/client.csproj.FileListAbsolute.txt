@@ -1,0 +1,9 @@
+D:\C#Deom\SocketBase\client\bin\Debug\client.exe.config
+D:\C#Deom\SocketBase\client\bin\Debug\client.exe
+D:\C#Deom\SocketBase\client\bin\Debug\client.pdb
+D:\C#Deom\SocketBase\client\obj\Debug\client.Properties.Resources.resources
+D:\C#Deom\SocketBase\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\C#Deom\SocketBase\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\C#Deom\SocketBase\client\obj\Debug\client.exe
+D:\C#Deom\SocketBase\client\obj\Debug\client.pdb
+D:\C#Deom\SocketBase\client\obj\Debug\client.client.resources

@@ -1,0 +1,10 @@
+D:\C#Deom\SocketBase\SocketBase\bin\Debug\SocketBase.exe.config
+D:\C#Deom\SocketBase\SocketBase\bin\Debug\SocketBase.exe
+D:\C#Deom\SocketBase\SocketBase\bin\Debug\SocketBase.pdb
+D:\C#Deom\SocketBase\SocketBase\obj\Debug\SocketBase.csprojAssemblyReference.cache
+D:\C#Deom\SocketBase\SocketBase\obj\Debug\SocketBase.Properties.Resources.resources
+D:\C#Deom\SocketBase\SocketBase\obj\Debug\SocketBase.csproj.GenerateResource.cache
+D:\C#Deom\SocketBase\SocketBase\obj\Debug\SocketBase.csproj.CoreCompileInputs.cache
+D:\C#Deom\SocketBase\SocketBase\obj\Debug\SocketBase.exe
+D:\C#Deom\SocketBase\SocketBase\obj\Debug\SocketBase.pdb
+D:\C#Deom\SocketBase\SocketBase\obj\Debug\SocketBase.server.resources
